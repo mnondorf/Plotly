@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# My files
+index_gg.html
+BellyButton_gauge_starter_code.js
+
 # Distribution / packaging
 .Python
 build/
